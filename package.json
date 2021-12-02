@@ -10,7 +10,7 @@
   "scripts": {
     "check-types": "tsc",
     "build": "webpack --config webpack.config.js",
-    "start": "webpack-dev-server --hot --open --config webpack.config.js"
+    "start": "webpack-dev-server --hot --config webpack.config.js"
   },
   "dependencies": {
     "react": "^17.0.2",
